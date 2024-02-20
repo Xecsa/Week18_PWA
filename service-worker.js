@@ -1,12 +1,12 @@
 var cacheName = 'petstore-v1';
 var cacheFiles = [
     'index.html',
-    'product.js',
+    'products.js',
     'petstore.webmanifest',
     'images/Yarn.jpg',
     'images/KittyLitter.jpg',
     'images/Pointer.jpg',
-    'images/    Cat_house_.jpg',
+    'images/Cat_house_.jpg',
     'images/icon-store-512.png'
 ]
 
